@@ -11,4 +11,4 @@ dispatcher where…", "Improve our handling of…", etc.
 
 
 ## Tests and Linting
-- [ ] This branch is up-to-date with the `main` branch.
+- [ ] I have validated that this feature works as intended.
