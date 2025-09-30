@@ -23,7 +23,7 @@
     "@types/react-table": "^7.7.19",
     "ag-grid-community": "^29.3.5",
     "ag-grid-react": "^29.3.5",
-    "axios": "^1.6.7",
+    "axios": "^1.12.2",
     "buffer": "^6.0.3",
     "chart.js": "^4.4.1",
     "class-variance-authority": "^0.7.0",
